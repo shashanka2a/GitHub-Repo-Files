@@ -8,4 +8,8 @@ $ ./test.sh
 ```
 Documentation : https://ubuntu.com/tutorials/command-line-for-beginners 
 
-![Home](terminal.png)
+Terminal:
+![Terminal](terminal.png)
+
+Folder:
+![Folder](folder_snapshot.png)
