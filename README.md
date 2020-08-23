@@ -8,4 +8,4 @@ $ ./test.sh
 ```
 Documentation : https://ubuntu.com/tutorials/command-line-for-beginners 
 
-[!Screenshot](terminal.png)
+![Home](terminal.png)
