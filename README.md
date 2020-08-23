@@ -1,6 +1,6 @@
 ## GitHub-Repo-Files
 
-#Running 
+# Running 
 In your terminal:
 ```
 $ chmod +x test.sh
