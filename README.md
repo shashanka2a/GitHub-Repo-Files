@@ -9,10 +9,10 @@ $ chmod +x test.sh
 $ ./test.sh
 ```
 
-Terminal:
+**Terminal:**
 ![Terminal](terminal.png)
 
-Folder:
+**Folder:**
 ![Folder](folder_snapshot.png)
 
-Documentation : https://ubuntu.com/tutorials/command-line-for-beginners 
+**Documentation :** https://ubuntu.com/tutorials/command-line-for-beginners 
